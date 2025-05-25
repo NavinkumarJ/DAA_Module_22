@@ -1,17 +1,4 @@
 # EX 4B DYNAMIC PROGRAMMING – 2
-## DATE:
-## AIM:
-To find the longest string (or strings) that is a substring (or are substrings) of two strings..
-
-
-
-## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-# EX 4B DYNAMIC PROGRAMMING – 2
 ## DATE: 03/05/2025
 ## AIM: 
 To find the longest string (or strings) that is a substring (or are substrings) of two strings..
@@ -62,23 +49,6 @@ print("The longest common substring is", result)
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/682523ca-bcec-4f55-92b3-19c7294b9847)
-
-## Result:
-Thus the program was executed successfully for finding the longest common substring .
-## Program:
-```
-/*
-Program to implement the longest common substring problem
-
-.
-Developed by: 
-Register Number:  
-*/
-```
-
-## Output:
-
-
 
 ## Result:
 Thus the program was executed successfully for finding the longest common substring .
